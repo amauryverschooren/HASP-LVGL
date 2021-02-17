@@ -1,6 +1,6 @@
-# HASP-LVGL
+# hasp-lvgl
 
-This is one of my latest projects. I wanted a way to control all of my HA devices without needing to go to the web interface. I stumbled on HASP (HomeAssistantSwitchPanel). This is the main project that most of the people use. In my case, i use the HASP-LVGL. This is a fork of the original HASP project but is standing fully on it's own. It does has some nice extra features in it. The biggest reason i went for LVGL is the abbility to use much cheaper displays. Also you have more options to decide what kind of screen you want to use.
+This is one of my latest projects. I wanted a way to control all of my HA devices without needing to go to the web interface. I stumbled on HASP (HomeAssistantSwitchPanel). This is the main project that most of the people use. In my case, i use the hasp-lvgl. This is a fork of the original HASP project but is standing fully on it's own. It does has some nice extra features in it. The biggest reason i went for LVGL is the abbility to use much cheaper displays. Also you have more options to decide what kind of screen you want to use.
 
 
 ## Screens
