@@ -39,7 +39,7 @@ For the hardware i'm using an [ESP32 TTGO T7](https://nl.aliexpress.com/item/328
 
 For the software part you have 2 things you need to have. First you need to have a MQTT server where the esp can talk to. Second you need a config file (.JSONL) to code what needs to be on the screen/pages. All the automations you can do with the yaml automations from HomeAssistant or you can use NodeRed like i did.
 
-![NodeRed Config](https://github.com/amauryverschooren/HASP-LVGL/blob/master/screenshot/Screenshot_4 - kopie.png?raw=true)
+![NodeRed Config](https://github.com/amauryverschooren/HASP-LVGL/blob/master/screenshot/Screenshot_4\ -\ kopie.png?raw=true)
 
 I do warn you, the NodeRed flow is very big in a short period of time ;-). I can tell you how everything works but there is a guide that explains it much better then me.
 
