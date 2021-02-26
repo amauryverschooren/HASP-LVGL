@@ -47,8 +47,8 @@ I do warn you, the NodeRed flow is very big in a short period of time ;-). I can
 
 I also made a little LoveLace card that displays the current battery percentage and displays if the device is connected to the MQTT server or not:
 
-![lovelace Connected](https://github.com/amauryverschooren/HASP-LVGL/blob/master/screenshot/lovelace_card)
-![lovelace Disconnected](https://github.com/amauryverschooren/HASP-LVGL/blob/master/screenshot/lovelace_card_dis)
+![lovelace Connected](https://github.com/amauryverschooren/HASP-LVGL/blob/master/screenshot/lovelace_card.png)
+![lovelace Disconnected](https://github.com/amauryverschooren/HASP-LVGL/blob/master/screenshot/lovelace_card_dis.png)
 
 ## Custom
 
