@@ -37,7 +37,7 @@ For the hardware i'm using an [ESP32 TTGO T7](https://nl.aliexpress.com/item/328
 
 Here a little preview of the case with the screen installed and a look on the inside.
 
-![Case](https://github.com/amauryverschooren/HASP-LVGL/blob/master/case/battery.JPG)
+![Case](https://github.com/amauryverschooren/HASP-LVGL/blob/master/case/battery.jpg)
 ![Case](https://github.com/amauryverschooren/HASP-LVGL/blob/master/case/DSC00336.JPG)
 ![Case](https://github.com/amauryverschooren/HASP-LVGL/blob/master/case/DSC00338.JPG)
 
