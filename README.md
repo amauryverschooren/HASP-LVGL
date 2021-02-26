@@ -35,8 +35,9 @@ You also have a Page 0, this page you need to have for navigation buttons.
 
 For the hardware i'm using an [ESP32 TTGO T7](https://nl.aliexpress.com/item/32845357819.html?spm=a2g0o.productlist.0.0.4cb813dbtNkbIe&algo_pvid=b002407d-b062-42e3-a42e-eba6e1a97cfd&algo_expid=b002407d-b062-42e3-a42e-eba6e1a97cfd-13&btsid=0b0a050b16135953084436741e9ee1&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) board to drive a [TFT Screen](https://nl.aliexpress.com/item/32919729730.html?spm=a2g0s.9042311.0.0.75684c4dda4L5t). First i used a Wemos D1 mini but that didn't worked that smooth. When pressing a button, the color change was rather slow. When switched to the ESP32 it was smootyh as butter. Because i'm made a desk version, i wanted to have a battery in it so i could place it everywhere in the house to control my lights etc. It's a regular 18650 LI-ion battery with a simple charger board attached to it. The case i designed myself and is available on [Thingiverse](https://www.thingiverse.com/thing:4773558).
 
-Here a little preview of the case with the screen installed.
+Here a little preview of the case with the screen installed and a look on the inside.
 
+![Case](https://github.com/amauryverschooren/HASP-LVGL/blob/master/case/battery.JPG)
 ![Case](https://github.com/amauryverschooren/HASP-LVGL/blob/master/case/DSC00336.JPG)
 ![Case](https://github.com/amauryverschooren/HASP-LVGL/blob/master/case/DSC00338.JPG)
 
