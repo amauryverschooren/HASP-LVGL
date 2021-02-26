@@ -43,6 +43,17 @@ For the software part you have 2 things you need to have. First you need to have
 
 I do warn you, the NodeRed flow is very big in a short period of time ;-). I can tell you how everything works but there is a guide that explains it much better then me.
 
+## LoveLace
+
+I also made a little LoveLace card that displays the current battery percentage and displays if the device is connected to the MQTT server or not:
+
+![lovelace Connected](https://github.com/amauryverschooren/HASP-LVGL/blob/master/screenshot/lovelace_card.png)
+![lovelace Disconnected](https://github.com/amauryverschooren/HASP-LVGL/blob/master/screenshot/lovelace_card_dis.png)
+
+## Custom
+
+The battery sensor is not part of the original hasp-lvgl project. I added the reading myself in the sourcecode and build the right version for my board. I also made an auto discovery function so it auto detects the battery sensor in [Home Assistant](https://github.com/home-assistant).
+
 
 Feel free to use my case and/or [config file](https://github.com/amauryverschooren/HASP-LVGL/blob/master/pages.jsonl) for your build. 
 
